@@ -1,0 +1,5 @@
+# ⚙️ General Settings
+
+Here are the articles in this section:
+
+<table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="3rd-dimension-main-toolbar.md">3rd-dimension-main-toolbar.md</a></td></tr><tr><td><a href="workspaces.md">workspaces.md</a></td></tr><tr><td><a href="single-panel.md">single-panel.md</a></td></tr><tr><td><a href="link-panels.md">link-panels.md</a></td></tr><tr><td><a href="binds.md">binds.md</a></td></tr><tr><td><a href="group-of-panels.md">group-of-panels.md</a></td></tr><tr><td><a href="templates.md">templates.md</a></td></tr><tr><td><a href="set-as-default.md">set-as-default.md</a></td></tr><tr><td><a href="symbols-lookup.md">symbols-lookup.md</a></td></tr><tr><td><a href="table-management.md">table-management.md</a></td></tr><tr><td><a href="alerts.md">alerts.md</a></td></tr><tr><td><a href="general-settings.md">general-settings.md</a></td></tr><tr><td><a href="custom-hotkeys.md">custom-hotkeys.md</a></td></tr></tbody></table>
