@@ -6,17 +6,69 @@ description: It is the improved version of Divscanner
 
 ## Swing Divergence Settings:
 
+### **Hide Chart Line:**&#x20;
 
+When this option is checked, the Divergence is hidden from the chart
 
 <figure><img src="../.gitbook/assets/siwing Div settings.png" alt=""><figcaption><p>Swing Divergence Settings</p></figcaption></figure>
 
-* **Hide Chart Line:** \
-  When this option is checked, the Divergence is hidden from the chart
-* **Indicator Base :**
+### &#x20;**Indicator Base**&#x20;
+
+The **IndicatorBase** setting allows traders to select one or more technical indicators to detect divergences between price action and the chosen indicator(s). Each indicator uses a unique methodology to identify potential trend reversals or continuations. Below is a breakdown of the indicators listed:
 
 <figure><img src="../.gitbook/assets/siwing Div settings 1.png" alt=""><figcaption></figcaption></figure>
 
-* **Divergence Type:**&#x20;
+#### **1. RSI (Relative Strength Index)**
+
+* **Purpose:** Measures overbought/oversold conditions by comparing recent price gains to losses.
+* **Divergence Detection:**
+  * **Bullish Divergence:** Price makes a _lower low_, but RSI forms a _higher low_ (signals upward reversal).
+  * **Bearish Divergence:** Price makes a _higher high_, but RSI forms a _lower high_ (signals downward reversal).
+
+***
+
+#### **2. Momentum**
+
+* **Purpose:** Tracks the rate of price change over time.
+* **Divergence Detection:**
+  * Momentum diverges from price direction (e.g., price rises but momentum declines), indicating weakening trend strength.
+
+***
+
+#### **3. MACD (Moving Average Convergence Divergence)**
+
+* **Purpose:** Combines moving averages to identify trend direction and strength.
+* **Divergence Detection:**
+  * **Bullish:** Price makes a lower low, but MACD histogram forms a higher low.
+  * **Bearish:** Price makes a higher high, but MACD histogram forms a lower high.
+
+***
+
+#### **4. Stochastic Oscillator**
+
+* **Purpose:** Compares closing prices to a price range over a period to identify overbought/oversold levels.
+* **Divergence Detection:**
+  * Price trends in one direction while Stochastic trends oppositely (e.g., price rises but Stochastic falls).
+
+***
+
+#### **5. CD (Likely Commodity Channel Index - CCI)**
+
+* **Purpose:** Measures price deviation from its statistical average.
+* **Divergence Detection:**
+  * Price and CCI move in opposite directions, signaling potential trend exhaustion.
+
+***
+
+#### **6. OBV (On-Balance Volume)**
+
+* **Purpose:** Uses volume flow to predict price changes.
+* **Divergence Detection:**
+  * Price trends up/down, but OBV trends oppositely, signaling weak volume support for the price move.
+
+
+
+### **Divergence Type:**&#x20;
 
 <figure><img src="../.gitbook/assets/siwing Div settings 2.png" alt=""><figcaption></figcaption></figure>
 
