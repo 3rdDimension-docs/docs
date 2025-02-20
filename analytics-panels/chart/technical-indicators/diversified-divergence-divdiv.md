@@ -100,7 +100,7 @@ The majority of traders will only need to open the first section of the indicato
 
 **Confirmation Method:**
 
-It is the method to confirm the sign. When Divergence indicator sends signs whether they are reversal or continuous; then this points to how high or low which confirms the signal. You can change the confirmation method as shown in the following example**.**&#x20;
+It is the method to confirm the sign. When Divergence indicator sends signs whether they are reversal or continuous; then this points to how high or low which confirms the signal. You can change the confirmation method as shown in the following exampl&#x65;**.**&#x20;
 
 (None) to see all possible Divergences without any type of confirmation,
 
@@ -108,7 +108,7 @@ It is the method to confirm the sign. When Divergence indicator sends signs whet
 
 (Max Peak) to see only the Divergences that the indicator closes above/below maximum peak.
 
-**Divergence Strength: (**explained in the Types of Divergence table above **)**
+**Divergence Strength: (**&#x65;xplained in the Types of Divergence table above **)**
 
 (Weak) DivDiv Indicator will show all strength levels of Divergence.
 

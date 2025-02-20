@@ -98,7 +98,7 @@ upgrading your Bybit account to unified trading Helps to reduce problems with 3r
 
 <figure><img src="../.gitbook/assets/time.png" alt=""><figcaption></figcaption></figure>
 
-**·**        To solve it, please, go to **Windows Settings > Time & Language >** and click on **Sync Now** button**.**
+**·**        To solve it, please, go to **Windows Settings > Time & Language >** and click on **Sync Now** butto&#x6E;**.**
 
 
 

@@ -26,15 +26,7 @@ To add the Breakout Catcher Bot to your trading strategy, follow these steps:
 
 
 
-<div>
-
-<figure><img src="../.gitbook/assets/BCB Open 20.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/BCB open 2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/BCB Open 20.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/BCB open 2.png" alt=""><figcaption></figcaption></figure></div>
 
 When you choose Breakout Catcher from strategies and press the settings icon, you will see the settings divided into the next groups:
 
@@ -174,7 +166,7 @@ Choose the time frame for finding the order block when OnOrderBlockRetest is sel
 
 This parameter allows users to define how the quantity of each trade is determined for every (TPA) . There are two options available:\
 \
-**Quote Quantity (Per TPA):**Enables the user to manually set the quantity of the trade for each TPA. Usage: This option is ideal for users who prefer a hands-on approach, giving them the ability to precisely specify the amount of the quote currency they want to allocate for every TPA.\
+**Quote Quantity (Per TPA):**&#x45;nables the user to manually set the quantity of the trade for each TPA. Usage: This option is ideal for users who prefer a hands-on approach, giving them the ability to precisely specify the amount of the quote currency they want to allocate for every TPA.\
 \
 **Risk Per Trade Percentage:** the parameter transforms (3.8) into "Risk Per Trade Percentage," allowing the user to set the quantity as a percentage of the trade's overall risk.\
 Usage: This option introduces a dynamic approach to trade sizing. Users can set the quantity as a percentage of the total risk they are willing to undertake for each trade, ensuring flexibility based on predefined risk management parameters.

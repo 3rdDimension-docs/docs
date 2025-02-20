@@ -80,8 +80,8 @@ Once you have determined the type of your system, you can proceed to [**download
 
 This error can occur for several reasons:
 
-* There is <mark style="color:red;">**no internet connection**</mark>** or a weak connection**. Please check that the connection is stable with your browser.
-* It appears that you are currently utilizing an <mark style="color:red;">**outdated version**</mark>** of our platform that is no longer supported**. We strongly advise that you [**download the newest version**](https://thirddimension.exchange/) from our official website and [<mark style="color:green;">**transfer all of your settings**</mark>](../getting-started/reset-settings-to-default..md) from the old version to the updated one.
+* There is <mark style="color:red;">**no internet connection**</mark>**&#x20;or a weak connection**. Please check that the connection is stable with your browser.
+* It appears that you are currently utilizing an <mark style="color:red;">**outdated version**</mark>**&#x20;of our platform that is no longer supported**. We strongly advise that you [**download the newest version**](https://thirddimension.exchange/) from our official website and [<mark style="color:green;">**transfer all of your settings**</mark>](../getting-started/reset-settings-to-default..md) from the old version to the updated one.
 * The platform has **not fully installed the files** to work correctly. Please reinstall the platform.
 
 <figure><img src="../.gitbook/assets/Screenshot_3 (2).png" alt=""><figcaption><p>Full list of folders and files for 3rd Dimension</p></figcaption></figure>

@@ -25,7 +25,7 @@ You can save the current settings if you want to return to them later. Just rena
 <figure><img src="../.gitbook/assets/Screenshot_4 (1).png" alt=""><figcaption></figcaption></figure>
 
 A folder with the main files of the latest (installed) version of the program will open. \
-_**Go to the main folder of the platform.**_
+&#xNAN;_**Go to the main folder of the platform.**_
 
 
 
@@ -48,7 +48,7 @@ Close the platform, **Right-click** on 3rd Dimension icon, and select **Open Fil
 <figure><img src="../.gitbook/assets/Screenshot_4 (1).png" alt=""><figcaption></figcaption></figure>
 
 A folder with the main files of the latest (installed) version of the program will open.\
-_**Go to the main folder of the platform.**_
+&#xNAN;_**Go to the main folder of the platform.**_
 
 
 

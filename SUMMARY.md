@@ -134,6 +134,7 @@
   * [Breakout Catcher Bot](strategies-and-bots/breakout-catcher-bot.md)
   * [Retracement Catcher Bot](strategies-and-bots/retracement-catcher-bot.md)
   * [DivScanner](strategies-and-bots/divscanner.md)
+  * [Swing Divergence Integration](strategies-and-bots/swing-divergence-integration.md)
   * [Whale Splash](strategies-and-bots/whale-splash.md)
   * [Pumps Catcher](strategies-and-bots/pumps-catcher.md)
 * [⁉️ FAQ](faq/README.md)
